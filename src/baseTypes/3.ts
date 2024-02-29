@@ -1,4 +1,4 @@
-let some:unknown;
+let some = '';
 some = 'Text';
 let str: string;
 str = some;
